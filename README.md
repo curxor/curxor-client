@@ -1,4 +1,6 @@
-.
+![image](https://github.com/user-attachments/assets/34e1dbf8-4577-479d-a5ab-f6b4e5a8abf3)
+
+```
 ├── public                              # Static files
 ├── src                                 # Next.js source directory
 │   ├── app                             # Next.js App Router
@@ -18,7 +20,6 @@
 │   │   ├── not-found.tsx               
 │   │   ├── loading.tsx
 │   │   └── error.tsx
-![image](https://github.com/user-attachments/assets/34e1dbf8-4577-479d-a5ab-f6b4e5a8abf3)
 
 │   ├── components                      # Global components
 │   │   ├── Footer.tsx
@@ -48,3 +49,4 @@
 ├── package.json
 ├── postcss.config.mjs                  # PostCSS configuration
 └── tsconfig.json                       # Typescript configuration
+```
